@@ -1,6 +1,6 @@
 # Real-time Object Detection using Kotlin
 
-**Overview**
+**Overview** <br/>
 Welcome to the Real-time Object Detection project! This project leverages Kotlin and TensorFlow Lite to perform real-time object detection on Android devices. The app captures live camera feed and processes it using a pre-trained SSD MobileNet V1 model to detect and classify objects in real-time.
 
 **Features:**
@@ -9,7 +9,8 @@ Welcome to the Real-time Object Detection project! This project leverages Kotlin
 3. Customizable: Easily switch models or modify detection parameters.
 4. User-Friendly: Simple and intuitive interface.
 
-**Code Explanation** <br/>
+**Code Explanation:** <br/>
+
 *MainActivity.kt* <br/>
 The MainActivity handles the camera feed and processes the images for object detection.<br/>
 onCreate: Initializes the camera, model, and other components.<br/>
