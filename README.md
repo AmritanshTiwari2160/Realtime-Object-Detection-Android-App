@@ -20,5 +20,5 @@ onSurfaceTextureUpdated: Called when the camera preview is updated; processes th
 1. TensorFlow Lite
 2. Android Camera2 API
    
-*Contributing* <br/>
+*Contributing*🤝 <br/>
 Contributions are welcome! If you find a bug or want to add a feature, feel free to open an issue or submit a pull request.
