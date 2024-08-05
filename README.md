@@ -17,9 +17,9 @@ onCreate: Initializes the camera, model, and other components.<br/>
 open_camera: Opens the camera and starts the capture session.<br/>
 onSurfaceTextureUpdated: Called when the camera preview is updated; processes the image and performs detection.<br/>
 
-**Dependencies** <br/>
+**Dependencies:** <br/>
 1. TensorFlow Lite
 2. Android Camera2 API
    
-*Contributing*🤝 <br/>
+***Contributing***🤝 <br/>
 Contributions are welcome! If you find a bug or want to add a feature, feel free to open an issue or submit a pull request.
