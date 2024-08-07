@@ -9,7 +9,7 @@ Welcome to the Real-time Object Detection project! This project leverages Kotlin
 3. Customizable: Easily switch models or modify detection parameters.
 4. User-Friendly: Simple and intuitive interface.
 
-##Code Explanation: 
+## Code Explanation:
 
 *MainActivity.kt* <br/>
 The `MainActivity` handles the camera feed and processes the images for object detection.
@@ -57,6 +57,6 @@ The `MainActivity` handles the camera feed and processes the images for object d
 **Dependencies:** <br/>
 1. TensorFlow Lite
 2. Android Camera2 API
-   
+
 ***Contributing***🤝 <br/>
 Contributions are welcome! If you find a bug or want to add a feature, feel free to open an issue or submit a pull request.
