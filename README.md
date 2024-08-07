@@ -9,7 +9,7 @@ Welcome to the Real-time Object Detection project! This project leverages Kotlin
 3. Customizable: Easily switch models or modify detection parameters.
 4. User-Friendly: Simple and intuitive interface.
 
-###Code Explanation: 
+##Code Explanation: 
 
 *MainActivity.kt* <br/>
 The `MainActivity` handles the camera feed and processes the images for object detection.
